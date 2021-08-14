@@ -1,4 +1,4 @@
 echo "hello world"
-Echo "HELLO World"
-eCHo "heLLO world"
-ECHO "HELLO WORLD"
+Echo 555
+eCHo 5*2/10
+ECHO ((5*2)/2)*10
